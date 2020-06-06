@@ -1,7 +1,7 @@
 {
 "companyName": "JoelMakesGames",
 "productName": "Pillage The Pigs",
-"productVersion": "0.1.6",
+"productVersion": "0.1.7",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
